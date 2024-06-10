@@ -101,6 +101,7 @@ Clutter/background (RGB: 255, 0, 0)
 
 * <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/471b9cd7-c74f-49ad-8302-edfd7ee4ee7e" style="width:32%;">
 * Download: https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies
+* The mask is generated based on NWDI (Normalized Water Difference Index)
 
 
 ### 2. baidu aistudio Water Dataset
