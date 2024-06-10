@@ -2,7 +2,7 @@
 
 # Remote Sensing Dataset on Semantic Segmentation
 
-# 遥感语义分割数据集
+## 遥感语义分割数据集
 
 
   - [Multi-class](#multi-class)
