@@ -9,7 +9,6 @@
   - [Building](#building)
   - [Road](#road)
   - [Water](#water)
-  - [Cloud](#cloud)
 
 
 ## Multi-class
@@ -55,6 +54,13 @@ Clutter/background (RGB: 255, 0, 0)
 * Paper: https://arxiv.org/abs/2210.10732
 *  Bareland,Rangeland,Developed space,Road,Tree,Water,Agriculture land,Building
 
+### 5. UAVid
+
+* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/6a43e356-60f8-40cd-a032-af726537f31e" style="width:35%;">
+* Page: https://www.uavid.nl/
+* Download: https://www.uavid.nl/#download
+* Paper: https://arxiv.org/abs/1810.10438
+* Building,Road,Static car,Tree,Low vegetation,Human,Moving car,Background clutter
 
 
 ## Building
@@ -91,3 +97,4 @@ Clutter/background (RGB: 255, 0, 0)
 
 
 ## Cloud
+
