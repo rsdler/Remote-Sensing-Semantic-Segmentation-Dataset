@@ -9,6 +9,7 @@
   - [Building](#building)
   - [Road](#road)
   - [Water](#water)
+  - [Cloud](#cloud)
 
 
 ## Multi-class
@@ -97,4 +98,11 @@ Clutter/background (RGB: 255, 0, 0)
 
 
 ## Cloud
+
+### 1. 95-Cloud
+
+* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/724a5b65-d0ea-4bc3-b3e6-9d992b7e750e" style="width:37%;">
+* Download: https://github.com/SorourMo/95-Cloud-An-Extension-to-38-Cloud-Dataset
+* Paper: https://arxiv.org/abs/2001.08768
+
 
