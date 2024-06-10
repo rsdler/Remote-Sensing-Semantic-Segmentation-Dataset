@@ -60,7 +60,7 @@ Clutter/background (RGB: 255, 0, 0)
 
 * <img src="https://github.com/rsdler/Remote-Sensing-Dataset/assets/169664279/b4684a20-5243-426c-947b-513f222b696d" style="width:40%;">
 
-* 
+* Download: http://gpcv.whu.edu.cn/data/building_dataset.html
 
 ### 3. Inria Aerial Image
 
