@@ -56,7 +56,7 @@ Clutter/background (RGB: 255, 0, 0)
 
 ### 5. UAVid
 
-* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/6a43e356-60f8-40cd-a032-af726537f31e" style="width:35%;">
+* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/6a43e356-60f8-40cd-a032-af726537f31e" style="width:40%;">
 * Page: https://www.uavid.nl/
 * Download: https://www.uavid.nl/#download
 * Paper: https://arxiv.org/abs/1810.10438
