@@ -125,5 +125,4 @@ Clutter/background (RGB: 255, 0, 0)
 
 * <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/e4998a5c-12bd-4078-86f8-c799c3296f71" style="width:37%;">
 * Page: https://www.maxar.com/open-data
-* Paper: 
 
