@@ -4,7 +4,15 @@
 
 # 遥感语义分割数据集
 
-## 多类别数据集
+
+  - [Multi-class](#multi-class)
+  - [Building](#building)
+  - [Road](#road)
+  - [Water](#water)
+
+
+## Multi-class
+
 
 ### 1. 2D Semantic Labeling Contest - Potsdam Data
 
@@ -38,6 +46,8 @@ Clutter/background (RGB: 255, 0, 0)
 * Paper: https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/4e732ced3463d06de0ca9a15b6153677-Paper-round2.pdf
 * https://codalab.lisn.upsaclay.fr/competitions/421
 
-## 建筑提取
+## Building
 
-## 道路提取
+## Road
+
+## Water
