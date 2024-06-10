@@ -107,7 +107,7 @@ Clutter/background (RGB: 255, 0, 0)
 
 ### 2. baidu aistudio Water Dataset
 
-* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/724a5b65-d0ea-4bc3-b3e6-9d992b7e750e" style="width:37%;">
+* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/a217371d-45dd-4f5b-a54d-5f7ee2afb094" style="width:37%;">
 * Download: https://aistudio.baidu.com/datasetdetail/105001/0
 
 
