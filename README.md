@@ -46,6 +46,16 @@ Clutter/background (RGB: 255, 0, 0)
 * Download: https://zenodo.org/records/5706578
 * Paper: https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/4e732ced3463d06de0ca9a15b6153677-Paper-round2.pdf
 * https://codalab.lisn.upsaclay.fr/competitions/421
+  
+### 4. OpenEarthMap
+
+* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/6cdabf7b-bbce-49ca-9d63-4a96ce613f9d" style="width:40%;">
+* Page: https://open-earth-map.org/ 
+* Download: https://zenodo.org/records/7223446
+* Paper: https://arxiv.org/abs/2210.10732
+*  Bareland,Rangeland,Developed space,Road,Tree,Water,Agriculture land,Building
+
+
 
 ## Building
 
