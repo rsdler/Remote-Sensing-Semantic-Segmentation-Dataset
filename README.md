@@ -9,6 +9,7 @@
   - [Building](#building)
   - [Road](#road)
   - [Water](#water)
+  - [Cloud](#cloud)
 
 
 ## Multi-class
@@ -71,8 +72,12 @@ Clutter/background (RGB: 255, 0, 0)
 
 ### 1. Massachusetts Roads Dataset
 
+
 * <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/4c26861c-fe0b-450c-aba1-610860e2a4a3" style="width:40%;">
 
 * Download: https://www.cs.toronto.edu/~vmnih/data/
 
 ## Water
+
+
+## Cloud
