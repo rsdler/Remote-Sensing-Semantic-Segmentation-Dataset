@@ -35,3 +35,4 @@ Clutter/background (RGB: 255, 0, 0)
 * Page: https://github.com/Junjue-Wang/LoveDA
 * Download: https://zenodo.org/records/5706578
 * Paper: https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/4e732ced3463d06de0ca9a15b6153677-Paper-round2.pdf
+* https://codalab.lisn.upsaclay.fr/competitions/421
