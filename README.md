@@ -48,7 +48,7 @@ Clutter/background (RGB: 255, 0, 0)
   
 ### 4. OpenEarthMap
 
-* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/6cdabf7b-bbce-49ca-9d63-4a96ce613f9d" style="width:37%;">
+* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/6cdabf7b-bbce-49ca-9d63-4a96ce613f9d" style="width:32%;">
 * Page: https://open-earth-map.org/ 
 * Download: https://zenodo.org/records/7223446
 * Paper: https://arxiv.org/abs/2210.10732
