@@ -119,5 +119,6 @@ Clutter/background (RGB: 255, 0, 0)
 * Download: https://github.com/SorourMo/95-Cloud-An-Extension-to-38-Cloud-Dataset
 * Paper: https://arxiv.org/abs/2001.08768
   
-## Disater
+## Disaster
+
 
