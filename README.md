@@ -96,7 +96,14 @@ Clutter/background (RGB: 255, 0, 0)
 
 ## Water
 
-### 1. baidu aistudio Water Dataset
+### 1. Water Bodies Dataset
+
+
+* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/471b9cd7-c74f-49ad-8302-edfd7ee4ee7e" style="width:32%;">
+* Download: https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies
+
+
+### 2. baidu aistudio Water Dataset
 
 * <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/724a5b65-d0ea-4bc3-b3e6-9d992b7e750e" style="width:37%;">
 * Download: https://aistudio.baidu.com/datasetdetail/105001/0
