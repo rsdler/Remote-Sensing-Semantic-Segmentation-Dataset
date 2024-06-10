@@ -48,6 +48,20 @@ Clutter/background (RGB: 255, 0, 0)
 
 ## Building
 
+### 1. Massachusetts Buildings Dataset
+
+* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/bb7eaad6-65c1-4ab8-8e7b-2ab78cb7f263" style="width:40%;">
+
+* Download: https://www.cs.toronto.edu/~vmnih/data/
+
+
+### 2. WHU Building Dataset
+
+* <img src="https://github.com/rsdler/Remote-Sensing-Dataset/assets/169664279/b4684a20-5243-426c-947b-513f222b696d" style="width:40%;">
+
+* Download: https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx
+
+
 ## Road
 
 ## Water
