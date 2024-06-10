@@ -58,7 +58,7 @@ Clutter/background (RGB: 255, 0, 0)
 
 ### 2. WHU Building Dataset
 
-* <img src="https://github.com/rsdler/Remote-Sensing-Dataset/assets/169664279/b4684a20-5243-426c-947b-513f222b696d" style="width:40%;">
+* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/e8b33ed2-b1f3-4b16-8e3e-f42efa3363ff" style="width:40%;">
 
 * Download: http://gpcv.whu.edu.cn/data/building_dataset.html
 
