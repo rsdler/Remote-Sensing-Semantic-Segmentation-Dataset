@@ -4,6 +4,7 @@
 
 ## 遥感语义分割数据集
 
+## 多类别数据集
 
 ### 1. 2D Semantic Labeling Contest - Potsdam Data
 
