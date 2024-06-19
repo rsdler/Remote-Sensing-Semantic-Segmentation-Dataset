@@ -99,6 +99,13 @@ Clutter/background (RGB: 255, 0, 0)
 * <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/4c26861c-fe0b-450c-aba1-610860e2a4a3" style="width:37%;">
 
 * Download: https://www.cs.toronto.edu/~vmnih/data/
+  
+### 2. DeepGlobe Road Extraction Dataset
+
+* Page: http://deepglobe.org/index.html
+* Page: https://competitions.codalab.org/competitions/18467
+* Paper: https://arxiv.org/abs/1805.06561
+
 
 ## Water
 
