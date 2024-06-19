@@ -102,10 +102,11 @@ Clutter/background (RGB: 255, 0, 0)
   
 ### 2. DeepGlobe Road Extraction Dataset
 
+* <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/531cd900-b4aa-4173-91b2-d21b2ca7fd40" style="width:37%;">
+* Download: https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset
 * Page: http://deepglobe.org/index.html
 * Page: https://competitions.codalab.org/competitions/18467
 * Paper: https://arxiv.org/abs/1805.06561
-
 
 ## Water
 
