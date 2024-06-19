@@ -63,7 +63,7 @@ Clutter/background (RGB: 255, 0, 0)
 * Paper: https://arxiv.org/abs/1810.10438
 * Building,Road,Static car,Tree,Low vegetation,Human,Moving car,Background clutter
 
-### 5. ben-ge
+### 6. Ben-Ge
 
 * <img src="https://github.com/rsdler/Remote-Sensing-Semantic-Segmentation-Dataset/assets/169664279/b382c361-8baf-43bd-818d-a6b3565ae369" style="width:37%;">
 * Page: https://github.com/HSG-AIML/ben-ge
